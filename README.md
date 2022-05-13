@@ -17,5 +17,5 @@
 
 ```bash
 mvn clean package -DskipTests
-
+java -jar target/k8s-resources-deployment-endpoint-0.0.1-SNAPSHOT.jar
 ```
